@@ -1,0 +1,237 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.sec-one{
+    position: sticky;
+    position: -webkit-sticky;
+top: 0;
+}
+.navbar{
+    background: linear-gradient(to bottom right, red, yellow);
+    z-index: 994;
+    padding: 15px 0;
+    
+}
+.navbar-brand{
+    padding-left:100px;
+}
+.nav-item{
+    padding:0 12px;
+}
+.multitext{
+    /* color:yellow; */
+    /* background: linear-gradient(to bottom right, red, yellow); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+}
+.list{
+    color: white;
+}
+.sec-two{
+    /* background-image: url(./img/sssssssssssss.png); */
+    background-image: url(./img/asdf.jpg);
+height: 90vh;
+    padding: 40px 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ /* height: 180vh; */
+ 
+}
+
+.cont{
+    margin: 100px;
+    color: white;
+   
+}
+.btn{
+    background: linear-gradient(to bottom right, red, yellow);  
+    color: white;
+    border: none;
+    padding: 8px 0;
+    width: 180px;
+    font-size: x-large;
+}
+.para{
+    font-size: 33px;
+}
+.para2{
+    padding: 0 20px;
+    }
+#line{
+    /* color: yellow; */
+    background: linear-gradient(to bottom right, red, yellow); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#line::before,#line::after{
+    content: '--------';
+}
+#heading1{
+    font-size: 23px;
+}
+.span1{
+    /* color: yellow; */
+    background: linear-gradient(to bottom right, red, yellow); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.img1{
+    /* min-width: 200px;
+    min-height: 150px; */
+}
+
+
+
+.sec-three{
+    /* margin: 50px 0; */
+     background: linear-gradient(rgba(100, 99, 99, 0.411),rgba(143, 138, 138, 0.418)
+    );
+}
+.icons{
+    /* background-color: whitesmoke; */
+    background: rgba( 255, 255, 255, 0.3 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+/* backdrop-filter: blur( 4.5px ); */
+/* -webkit-backdrop-filter: blur( 4.5px ); */
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.icons i{
+    font-size: 70px;
+    background: linear-gradient(to bottom right, red, yellow); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .item{
+    list-style: none;
+  }
+  .para2{
+    /* font-size: small; */
+  }
+  .heading2{
+    /* font-size: small; */
+    background: linear-gradient(to bottom right, red, yellow); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+#image{
+    margin: 0 8px;
+}
+.sec-five{
+ 
+}
+.carsoul{
+    z-index: -11;
+}
+.vedio{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px 0;
+}
+#vdo{
+    margin: 12px 0;
+}
+.vdo1{
+    width: 66px;
+    height: 70px;
+}
+.contactme{
+    width: 75%;
+}
+
+.icon1{
+    font-size: 70px;
+    background: linear-gradient(to bottom right, red, yellow); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.icon2{
+    font-size: 30px;
+    background: linear-gradient(to bottom right, red, yellow); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.last{
+    background-color: rgba(0, 0, 0, 0.822);
+}
+.inpt{
+    min-width: 200px;
+}
+  /* .work .title::after{
+    content: "Some Of My Work";
+}
+.work .carousel .card{
+    background: #222;
+    border-radius: 6px;
+    text-align: center;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+.work .carousel .card:hover{
+    background: crimson;
+}
+.work .carousel .card .box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.work .carousel .card:hover .box{
+    transform: scale(1.05);
+}
+
+.work .carousel .card img{
+    height: 350px;
+    width: 392px;
+    object-fit: cover;
+  
+}
+
+.video {
+    
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    padding: 10px 0px;
+}
+video{
+  width: 100%; 
+  height: 350px;
+  margin: 0%;
+  padding: 0%;
+  box-shadow: 2px 2px 15px white;
+}
+
+
+.owl-dots{
+    text-align: center;
+    margin-top: 20px;
+}
+.owl-dot{
+    height: 13px;
+    width: 13px;
+    margin: 0 5px;
+    outline: none!important;
+    border-radius: 50%;
+    border: 2px solid crimson!important;
+    transition: all 0.3s ease;
+}
+.owl-dot.active{
+    width: 35px;
+    border-radius: 14px;
+}
+.owl-dot.active,
+.owl-dot:hover{
+    background: crimson!important;
+}
+  */
